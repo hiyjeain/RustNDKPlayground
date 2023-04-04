@@ -12,6 +12,7 @@ cargo {
     apiLevel = 30
     profile = 'release'
     verbose = true
+    pythonCommand = 'python3'
 }
 
 android {
