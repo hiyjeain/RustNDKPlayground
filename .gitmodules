@@ -1,0 +1,4 @@
+[submodule "rust_ndk_demo"]
+	path = rust_ndk_demo
+	url = git@github.com:hiyjeain/RustNDKDemo.git
+	branch = main
